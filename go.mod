@@ -1,9 +1,9 @@
 module github.com/gookit/color
 
-go 1.18
+go 1.25
 
 require (
 	github.com/gookit/assert v0.1.1
-	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e
+	github.com/xo/terminfo v1.2.0
 	golang.org/x/sys v0.30.0
 )
